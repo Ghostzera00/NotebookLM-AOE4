@@ -7,12 +7,12 @@ O principal objetivo deste agente é atuar como um treinador analítico, estrat�
 # 🔗 Fontes utilizadas para a base inicial.
 Neste Tópico você encontrará os links e materiais que eu usei para o modelo base, ele contém principalmente vídeos que auxiliam quanto ao macro quanto ao micro da jogabilidade de AOE4.
 
-https://www.youtube.com/watch?v=aTmT53_-pew
-https://www.youtube.com/watch?v=a-OW9kD-EA8
-https://www.youtube.com/watch?v=d_FEca71_Xo
-https://www.youtube.com/watch?v=IFUNfAxEhas
-https://youtu.be/-PPntvN34sE?si=JP91ilTJp5DMTdYB
-https://aoe4world.com/
+https://www.youtube.com/watch?v=aTmT53_-pew;
+https://www.youtube.com/watch?v=a-OW9kD-EA8;
+https://www.youtube.com/watch?v=d_FEca71_Xo;
+https://www.youtube.com/watch?v=IFUNfAxEhas;
+https://youtu.be/-PPntvN34sE?si=JP91ilTJp5DMTdYB;
+https://aoe4world.com/;
 Fonte própria: "Atue como um coach o qual auxilia o jogador a compreender suas dúvidas e ensinar sobre curiosidades, técnicas e estratégias sobre Age of Empires 4."
 
 # 🤖 Prompts e relatórios
