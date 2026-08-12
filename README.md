@@ -1,2 +1,2 @@
-# NotebookLM-AOE4
-Uma IA generativa com o intuito de atuar como um coach de Age Of Empires IV (AOE4), com o propósito de auxiliar nos estudos de IA da DIO.
+# ⚔️ Manual do Agente: Coach de Age of Empires IV (AoE4)
+Este documento funciona como o guia central de operações e de estudos para o agente de IA configurado como Coach Tático de Elite para Age of Empires IV [37]. Aqui você encontrará as diretrizes do agente, resumos estratégicos baseados no meta atual de 2026, um glossário técnico e prompts reutilizáveis para treinar e aprimorar sua jogabilidade.
